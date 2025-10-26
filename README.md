@@ -14,3 +14,4 @@ To run this project locally;
 - Ensure Node.js is installed, with a suitable package manager
 - Clone repository
 - Within the root of the repository directory, run `npm run dev`
+- Open [http://localhost:3000](http://localhost:3000) in a browser to see the result.
