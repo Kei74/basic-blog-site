@@ -28,7 +28,7 @@ const components: MDXComponents = {
         <Divider sx={{mt: 1, mb: 1}}/>
     ),
     img: (properties) => (
-        <Image {...properties} height={400} width={600} style={{objectFit: 'contain'}}/>
+        <Image {...properties} height={400} width={600} style={{maxHeight: '600px' , objectFit: 'contain'}}/>
     )
 
 } satisfies MDXComponents
